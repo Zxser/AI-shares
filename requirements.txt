@@ -1,0 +1,11 @@
+lxml==4.3.4
+requests==2.22.0
+bs4==0.0.1
+numpy==1.16.4
+tushare==1.2.35
+pandas==0.24.2
+TA-Lib==0.4.17
+threadpool==1.3.2
+xlrd==1.2.0
+tables==3.5.1
+schedule==0.6.0
