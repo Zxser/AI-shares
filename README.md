@@ -1,4 +1,4 @@
-## Sequoia选股系统
+## Tomcat选股系统
 ### 简介
 本程序使用传统的[TuShare接口](http://tushare.org/)，并非需要捐赠的[pro接口](https://tushare.pro/)，获取数据无限制;
 
