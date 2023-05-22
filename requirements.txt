@@ -1,5 +1,5 @@
 lxml==4.3.4
-requests==2.22.0
+requests==2.31.0
 bs4==0.0.1
 numpy==1.16.4
 tushare==1.2.35
